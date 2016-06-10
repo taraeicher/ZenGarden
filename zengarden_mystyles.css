@@ -1,0 +1,177 @@
+﻿/*CSS Zen Garden design by Tara Eicher*/
+html{
+	margin:0;
+	height:100%;
+}
+body{
+	background-image:url('images/background_tile.gif');
+	background-repeat:repeat;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#333300;
+	margin-left:20px;
+	margin-right:20px;
+	margin-bottom:10px;
+	margin-top:10px;
+}
+a:link{
+	color:#333399;
+	text-decoration:underline;
+}
+a:visited{
+	color:#660066;
+	text-decoration:underline;
+}
+a:hover{
+	color:blue;
+	text-decoration:inherit;
+	}
+a:active{
+	color:blue;
+	text-decoration:line-through;
+}
+#pageHeader{
+	margin-bottom:20px;
+	font-family:Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+	border:medium;
+	border-style:solid;
+	border-color:purple;
+	text-align:center;
+}
+#pageHeader h1{
+	color:#CC3399;
+	font-size:45px;
+}
+#pageHeader h2{
+	color:purple;
+	font-size:x-large;
+	font-style:italic;
+}
+#linkList{
+	text-align:left;
+	background-color:#FFCCFF;
+	font-size:small;
+	font-family:Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+	position:absolute;
+	left:80%;
+	top: 300px;
+	padding:0 0 0 0;
+	width: 180px;
+	border:thin #333300 solid;
+	color:purple;
+}
+#footer{
+	text-align:center;
+	border:medium purple solid;
+	font-size:large;
+	font-weight:bold;
+}
+#preamble h3{
+	color:purple;
+	margin-left:250px;
+}
+#explanation h3{
+	color:purple;
+}
+#participation h3{
+	color:purple;
+	margin-left:250px;
+}
+#benefits h3{
+	color:purple;
+}
+#requirements h3{
+	color:purple;
+	margin-left:250px;
+}
+#lselect h3{
+	color:#CC3399;
+	margin:15px;
+	border-bottom:2px #CC3399 dashed;
+	border-top:2px #cc3399 dashed;
+}
+#larchives h3{
+	color:#CC3399;
+	margin:15px;
+	border-bottom:2px #CC3399 dashed;
+	border-top:2px #CC3399 dashed;
+}
+#lresources h3{
+	color:#CC3399;
+	margin:15px;
+	border-bottom:2px #CC3399 dashed;
+	border-top:2px #CC3399 dashed;
+}
+#quickSummary{
+	text-align:center;
+	font-style:italic;
+	font-size:18px;
+}
+#preamble{
+	border-top:1px purple groove;
+	border-bottom:1px purple groove;
+	margin-right:25%; 
+	background-image:url('images/freedom.jpg');
+	background-repeat:no-repeat;
+	background-position:left;
+}
+#preamble p.p1{
+	margin-left:250px;
+}
+#preamble p.p2{
+	margin-left:250px;
+}
+#preamble p.p3{
+	margin-left:250px;
+}
+
+#explanation{
+	border-bottom:1px purple groove;
+	margin-right:25%; 
+}
+#participation{
+	border-bottom:1px purple groove; 
+	background-image:url('images/graphic_designer.jpg');
+	background-repeat:no-repeat;
+	margin-right:10%;
+}
+#participation p.p1{
+	margin-left:250px;
+	margin-right:200px;
+}
+#participation p.p2{
+	margin-left:250px;
+	margin-right:200px;
+}
+#participation p.p3{
+	margin-left:250px;
+	margin-right:200px;
+}
+#requirements{
+	background-image:url('images/confused.jpg');
+	background-repeat:no-repeat;
+}
+#requirements p.p1{
+	margin-left:250px;
+}
+#requirements p.p2{
+	margin-left:250px;
+}
+#requirements p.p3{
+	margin-left:250px;
+}
+#requirements p.p4{
+	margin-left:250px;
+}
+#requirements p.p5{
+	margin-left:250px;
+}
+
+#benefits{
+	border-bottom:1px purple groove; 
+}
+#extraDiv3{
+	background-image:url('images/CSS.gif');
+	background-repeat:no-repeat;
+	background-position:center;
+	height:150px;
+}
